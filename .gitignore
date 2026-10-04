@@ -1,0 +1,6 @@
+~$*
+*.tmp
+*.autosave
+.env
+*.pem
+*.p12
